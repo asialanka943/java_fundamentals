@@ -1,4 +1,4 @@
-# CodingNomads Java Fundamentals
+# ICodingNomads Java Fundamentals Prasa's edit
 
 This project contains a variety of textbook examples and labs focused on Java labs_examples.fundamentals.
 
